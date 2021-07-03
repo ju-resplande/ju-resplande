@@ -1,4 +1,16 @@
+## About me 🙋‍♀️:
+
+- 🎓 Undergraduate student of Computer Science at Federal University of Goiás (UFG) - Goiânia, Brazil.
+- 🔎 NLP Researcher Intern at Centro de Excelência em Inteligência Artificial (CEIA).
+- 💼 NLP Developer at Mr.Turing.
+- 🌱 I’m currently learning about Portuguese Corpora, Question Answering Systems, and Knowledge Graphs.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍♀️ and 📺 animes.
+
+## GitHub Stats 📊:
+
 [![jubs12 github stats](https://github-readme-stats.vercel.app/api?username=jubs12&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jubs12/jubs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
