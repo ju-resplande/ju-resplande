@@ -4,8 +4,9 @@
 - 🔎 NLP Researcher Intern at Centro de Excelência em Inteligência Artificial (CEIA).
 - 💼 NLP Developer at Mr.Turing.
 - 🌱 I’m currently learning about Portuguese Corpora, Question Answering Systems, and Knowledge Graphs.
+- 👯 I'm a member of [projeto ADAS](https://meninas.sbc.org.br/portfolio/adasufg/) and [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍♀️ and 📺 animes.
+- ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍, 🤸🏼‍♀️, 🧘🏼‍♀️ and 📺 animes.
 
 ## GitHub Stats 📊:
 
