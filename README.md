@@ -2,8 +2,8 @@
 
 - 🎓 Undergraduate student of Computer Science at Federal University of Goiás (UFG) - Goiânia, Brazil.
 - 🔎 NLP Researcher Intern at [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
-- 💼 NLP Developer at Mr.Turing.
-- 🌱 I’m currently learning about Portuguese Corpora, Question Answering Systems, and Knowledge Graphs.
+- 💼 NLP Developer at [Mr.Turing](https://misterturing.com/).
+- 🌱 I’m currently learning about Portuguese corpora, question answering systems, and knowledge graphs.
 - 👯 I'm a member of [projeto ADAS](https://meninas.sbc.org.br/portfolio/adasufg/) and [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍, 🤸🏼‍♀️, 🧘🏼‍♀️, 👩🏽‍🍳🍰 and 📺 animes.
