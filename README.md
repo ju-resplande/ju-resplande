@@ -10,7 +10,7 @@
 
 ## GitHub Stats 📊:
 
-[![jubs12 github stats](https://github-readme-stats.vercel.app/api?username=jubs12&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![ju-resplande github stats](https://github-readme-stats.vercel.app/api?username=ju-resplande&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
