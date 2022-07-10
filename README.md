@@ -1,6 +1,6 @@
 ## About me 🙋‍♀️
 
-- 🎓 Undergraduate student of [Computer Science at Federal University of Goiás (UFG) - Goiânia, Brazil](https://inf.ufg.br/p/30138-ciencia-da-computacao).
+- 🎓 Graduated on [Computer Science at Federal University of Goiás (UFG) - Goiânia, Brazil](https://inf.ufg.br/p/30138-ciencia-da-computacao).
 - 🔎 NLP Researcher Intern at [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
 - 💼 NLP Developer at [Mr.Turing](https://misterturing.com/).
 - 🌱 I’m currently learning about Portuguese corpora, Question Answering systems, Information Retrieval, and Knowledge Graphs.
