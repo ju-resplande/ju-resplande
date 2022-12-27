@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Portuguese corpora, Question Answering systems, Information Retrieval, and Knowledge Graphs.
 - 👯 I'm a member of [projeto ADAS](https://meninas.sbc.org.br/portfolio/adasufg/), [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/), and [Deep Learning Brasil](http://www.deeplearningbrasil.com.br/).
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍, 🤸🏼‍♀️, 🧘🏼‍♀️, 👩🏽‍🍳🍰.
+- ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍, 🤸🏼‍♀️, 🧘🏼‍♀️, 🧩.
 
 ## GitHub Stats 📊
 
