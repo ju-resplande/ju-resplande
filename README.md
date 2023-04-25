@@ -1,6 +1,6 @@
 ## About me 🙋‍♀️
 
-- 🎓 Graduated in [Computer Science at Federal University of Goiás (UFG) - Goiânia, Brazil](https://inf.ufg.br/p/30138-ciencia-da-computacao).
+- 🎓 Master student at [Federal University of Goiás (UFG) - Goiânia, Brazil]([https://inf.ufg.br/p/30138-ciencia-da-computacao](https://ppgcc.inf.ufg.br/p/35367-apresentacao)).
 - 🔎 NLP Researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
 - 💼 Data scientist at [Data Lawyer](https://www.datalawyer.com.br/).
 - 🌱 I’m currently learning about Portuguese corpora,  Question Answering Systems, Summarization and Language Generation.
