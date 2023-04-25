@@ -3,7 +3,7 @@
 - 🎓 Master student at [Federal University of Goiás (UFG) - Goiânia, Brazil](https://ppgcc.inf.ufg.br/p/35367-apresentacao).
 - 🔎 NLP Researcher at [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
 - 💼 Data scientist at [Data Lawyer](https://www.datalawyer.com.br/).
-- 🌱 I’m currently learning about Portuguese corpora,  Question Answering Systems, Summarization and Language Generation.
+- 🌱 I’m currently learning about Portuguese corpora,  Question Answering Systems, and Language Generation.
 - 👯 I'm a member of [projeto ADAS](https://meninas.sbc.org.br/portfolio/adasufg/), [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/), and [Deep Learning Brasil](http://www.deeplearningbrasil.com.br/).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: likes to 🏃‍♀️, 🧗‍, 🤸🏼‍♀️, 🧘🏼‍♀️, 🧩.
