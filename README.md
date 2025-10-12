@@ -1,6 +1,6 @@
 ## About me 🙋‍♀️
 
-- 🎓 Master Graduate at [Federal University of Goiás (UFG) - Goiânia, Brazil](https://ppgcc.inf.ufg.br/p/35367-apresentacao).
+- 🎓 Master degree at [Federal University of Goiás (UFG) - Goiânia, Brazil](https://ppgcc.inf.ufg.br/p/35367-apresentacao).
 - 💼 AI Engineer at [Qive](https://qive.com.br/).
 - 🔎 NLP Researcher at  [Advanced Knowledge Center in Immersive Technologies (AKCIT)](https://akcit.ufg.br/) and [Centro de Excelência em Inteligência Artificial (CEIA)](http://centrodeia.org/).
 - 🌱 I’m currently learning about Portuguese corpora, Fact-checking, Question Answering Systems, and Language Generation.
